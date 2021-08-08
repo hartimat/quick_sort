@@ -1,6 +1,6 @@
 Welcome to "quick_sort"!
 
-///// DESCRIPTION /////
+[ DESCRIPTION ]
 
 This repo is an implementation of the classic quick sort algorithm in Java.  
 
