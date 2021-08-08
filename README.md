@@ -14,7 +14,7 @@ I selected this algorithm as one of my implementation projects for my coursework
 
 ///// CHALLENGES /////
 
-As mentioned above, I found that I first needed to visually step through the execution of this sort before I could implement it.  I ended up creating a list of steps in an excel file showing each of the discrete steps.  Once I worked through this exercise, the coding wrapped up relatively quickly. 
+As mentioned above, I found that I first needed to visually step through the execution of this sort before I could implement it.  I ended up creating an excel file showing each of the discrete steps.  Once I worked through this exercise, the coding wrapped up relatively quickly. 
 
 
 
